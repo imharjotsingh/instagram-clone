@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+}
+
+.navbar {
+    height: 54px;
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-inner {
+    width: 975px;
+    height: 100%;
+    display: flex;
+    padding: 0px 20px; 
+    align-items: center;
+}
