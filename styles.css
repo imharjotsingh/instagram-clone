@@ -340,3 +340,7 @@ main {
     line-height: 14px;
     margin-left: 10px;
 }
+
+.body img {
+    width: 100%;
+}
